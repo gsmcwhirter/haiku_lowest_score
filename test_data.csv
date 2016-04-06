@@ -1,0 +1,245 @@
+Display ID,Student ID,Name,First Name,Middle Initial,Last Name,Gradebook Entry,Type,Date,Category,Category Weight,Term,Grading Period,Entry Weight,Grade,Points,Points Possible,Published,Comment,Class Code,External ID
+019121,,Test Student 1,Test,Student,1,Quiz 1 Problems Credit,GradableItem,2015-09-16,Quizzes and Practice Problems,20,,,,0.0,0.0,1,1,,"",30-35000-2
+019121,,Test Student 1,Test,Student,1,Quiz 1,Assignment,2015-09-16,Quizzes and Practice Problems,20,,,,10.0,10.0,10,1,,"",30-35000-2
+019121,,Test Student 1,Test,Student,1,Quiz 2 Problems Credit,GradableItem,2015-09-21,Quizzes and Practice Problems,20,,,,0.0,0.0,1,1,,"",30-35000-2
+019121,,Test Student 1,Test,Student,1,Quiz 2,Assignment,2015-09-21,Quizzes and Practice Problems,20,,,,10.0,10.0,10,1,,"",30-35000-2
+019121,,Test Student 1,Test,Student,1,Quiz 3 Problems Credit,GradableItem,2015-09-28,Quizzes and Practice Problems,20,,,,0.0,0.0,1,1,,"",30-35000-2
+019121,,Test Student 1,Test,Student,1,Quiz 3,Assignment,2015-09-28,Quizzes and Practice Problems,20,,,,10.0,10.0,10,1,,"",30-35000-2
+019121,,Test Student 1,Test,Student,1,Quiz 4 Problems Credit,GradableItem,2015-10-28,Quizzes and Practice Problems,20,,,,,,1,1,,"",30-35000-2
+019121,,Test Student 1,Test,Student,1,Quiz 4,Assignment,2015-10-28,Quizzes and Practice Problems,20,,,,,,10,1,Was 7,"",30-35000-2
+019121,,Test Student 1,Test,Student,1,Quiz 5 Problems Credit,GradableItem,2015-11-04,Quizzes and Practice Problems,20,,,,0.0,0.0,1,1,,"",30-35000-2
+019121,,Test Student 1,Test,Student,1,Quiz 5,Assignment,2015-11-04,Quizzes and Practice Problems,20,,,,9.5,9.5,10,1,,"",30-35000-2
+019121,,Test Student 1,Test,Student,1,Quiz 6 Problems Credit,GradableItem,2015-11-11,Quizzes and Practice Problems,20,,,,0.0,0.0,1,1,,"",30-35000-2
+019121,,Test Student 1,Test,Student,1,Quiz 6,Assignment,2015-11-11,Quizzes and Practice Problems,20,,,,8.5,8.5,10,1,,"",30-35000-2
+019121,,Test Student 1,Test,Student,1,Quiz 7 Problems Credit,GradableItem,2015-11-16,Quizzes and Practice Problems,20,,,,4.0,4.0,1,1,,"",30-35000-2
+019121,,Test Student 1,Test,Student,1,Quiz 7,Assignment,2015-11-16,Quizzes and Practice Problems,20,,,,6.0,6.0,10,1,,"",30-35000-2
+019121,,Test Student 1,Test,Student,1,Dictionary Check 1,Assignment,2015-11-20,Quizzes and Practice Problems,20,,,,,,10,1,,"",30-35000-2
+019121,,Test Student 1,Test,Student,1,Quiz 8 Problems Credit,GradableItem,2015-12-07,Quizzes and Practice Problems,20,,,,0.0,0.0,1,1,,"",30-35000-2
+019121,,Test Student 1,Test,Student,1,Quiz 8,Assignment,2015-12-07,Quizzes and Practice Problems,20,,,,6.0,6.0,10,1,,"",30-35000-2
+019121,,Test Student 1,Test,Student,1,Quiz 9 Problems Credit,GradableItem,2015-12-09,Quizzes and Practice Problems,20,,,,0.0,0.0,1,1,,"",30-35000-2
+019121,,Test Student 1,Test,Student,1,Quiz 9,Assignment,2015-12-09,Quizzes and Practice Problems,20,,,,5.5,5.5,10,1,,"",30-35000-2
+019121,,Test Student 1,Test,Student,1,Quiz 10 Problems Credit,GradableItem,2016-01-13,Quizzes and Practice Problems,20,,,,0.0,0.0,1,1,,"",30-35000-2
+019121,,Test Student 1,Test,Student,1,Quiz 10,Assignment,2016-01-13,Quizzes and Practice Problems,20,,,,8.0,8.0,10,1,,"",30-35000-2
+019121,,Test Student 1,Test,Student,1,Quiz 11 Problems Credit,GradableItem,2016-01-20,Quizzes and Practice Problems,20,,,,0.0,0.0,1,1,,"",30-35000-2
+019121,,Test Student 1,Test,Student,1,Quiz 11,Assignment,2016-01-21,Quizzes and Practice Problems,20,,,,10.0,10.0,10,1,,"",30-35000-2
+019121,,Test Student 1,Test,Student,1,Quiz 12 Problems Credit,GradableItem,2016-01-25,Quizzes and Practice Problems,20,,,,0.0,0.0,1,1,,"",30-35000-2
+019121,,Test Student 1,Test,Student,1,Quiz 12,Assignment,2016-01-25,Quizzes and Practice Problems,20,,,,6.0,6.0,10,1,,"",30-35000-2
+019121,,Test Student 1,Test,Student,1,Dictionary Check 2,Assignment,2016-02-04,Quizzes and Practice Problems,20,,,,,,10,1,,"",30-35000-2
+019121,,Test Student 1,Test,Student,1,Quiz 13 Problems Credit,GradableItem,2016-02-24,Quizzes and Practice Problems,20,,,,,,1,1,Was 5,"",30-35000-2
+019121,,Test Student 1,Test,Student,1,Quiz 13,Assignment,2016-02-24,Quizzes and Practice Problems,20,,,,,,10,1,Was 3,"",30-35000-2
+019121,,Test Student 1,Test,Student,1,Quiz 14 Problems Credit,GradableItem,2016-03-04,Quizzes and Practice Problems,20,,,,0.0,0.0,1,1,,"",30-35000-2
+019121,,Test Student 1,Test,Student,1,Quiz 14,Assignment,2016-03-04,Quizzes and Practice Problems,20,,,,5.5,5.5,10,1,,"",30-35000-2
+019121,,Test Student 1,Test,Student,1,Quiz 15 Problems Credit,GradableItem,2016-03-09,Quizzes and Practice Problems,20,,,,0.0,0.0,1,1,,"",30-35000-2
+019121,,Test Student 1,Test,Student,1,Quiz 15,Assignment,2016-03-09,Quizzes and Practice Problems,20,,,,4.0,4.0,10,1,,"",30-35000-2
+019121,,Test Student 1,Test,Student,1,Quiz 16 Problems Credit,GradableItem,2016-03-16,Quizzes and Practice Problems,20,,,,0.0,0.0,1,1,,"",30-35000-2
+019121,,Test Student 1,Test,Student,1,Quiz 16,Assignment,2016-03-16,Quizzes and Practice Problems,20,,,,7.0,7.0,10,1,,"",30-35000-2
+019121,,Test Student 1,Test,Student,1,Review Questions Day 2,Assignment,2015-09-02,Participation and Preparation,10,,,,,,1,1,,"",30-35000-2
+019121,,Test Student 1,Test,Student,1,Week 1,GradableItem,2015-09-04,Participation and Preparation,10,,,,,,20,1,,"",30-35000-2
+019121,,Test Student 1,Test,Student,1,Week 2,GradableItem,2015-09-11,Participation and Preparation,10,,,,,,5,1,,"",30-35000-2
+019121,,Test Student 1,Test,Student,1,Week 3,GradableItem,2015-09-18,Participation and Preparation,10,,,,,,15,1,,"",30-35000-2
+019121,,Test Student 1,Test,Student,1,Week 4,GradableItem,2015-09-25,Participation and Preparation,10,,,,,,15,1,,"",30-35000-2
+019121,,Test Student 1,Test,Student,1,Week 5,GradableItem,2015-10-02,Participation and Preparation,10,,,,,,20,1,,"",30-35000-2
+019121,,Test Student 1,Test,Student,1,Week 6,GradableItem,2015-10-09,Participation and Preparation,10,,,,,,15,1,,"",30-35000-2
+019121,,Test Student 1,Test,Student,1,Week 7,GradableItem,2015-10-16,Participation and Preparation,10,,,,,,20,1,,"",30-35000-2
+019121,,Test Student 1,Test,Student,1,Week 8,GradableItem,2015-10-23,Participation and Preparation,10,,,,,,15,1,,"",30-35000-2
+019121,,Test Student 1,Test,Student,1,Week 9,GradableItem,2015-10-30,Participation and Preparation,10,,,,,,20,1,,"",30-35000-2
+019121,,Test Student 1,Test,Student,1,Week 10,GradableItem,2015-11-06,Participation and Preparation,10,,,,,,20,1,,"",30-35000-2
+019121,,Test Student 1,Test,Student,1,Week 11,GradableItem,2015-11-11,Participation and Preparation,10,,,,,,15,1,,"",30-35000-2
+019121,,Test Student 1,Test,Student,1,Week 12,GradableItem,2015-11-20,Participation and Preparation,10,,,,,,20,1,,"",30-35000-2
+019121,,Test Student 1,Test,Student,1,Week 13,GradableItem,2015-12-04,Participation and Preparation,10,,,,,,20,1,,"",30-35000-2
+019121,,Test Student 1,Test,Student,1,Week 14,GradableItem,2015-12-11,Participation and Preparation,10,,,,,,20,1,,"",30-35000-2
+019121,,Test Student 1,Test,Student,1,Week 15,GradableItem,2015-12-18,Participation and Preparation,10,,,,,,20,1,,"",30-35000-2
+019121,,Test Student 1,Test,Student,1,Week 16,GradableItem,2016-01-08,Participation and Preparation,10,,,,,,20,1,,"",30-35000-2
+019121,,Test Student 1,Test,Student,1,Week 17,GradableItem,2016-01-15,Participation and Preparation,10,,,,,,20,1,,"",30-35000-2
+019121,,Test Student 1,Test,Student,1,Week 18,GradableItem,2016-01-22,Participation and Preparation,10,,,,,,15,1,,"",30-35000-2
+019121,,Test Student 1,Test,Student,1,Week 19,GradableItem,2016-01-29,Participation and Preparation,10,,,,,,20,1,,"",30-35000-2
+019121,,Test Student 1,Test,Student,1,Week 20,GradableItem,2016-02-05,Participation and Preparation,10,,,,,,15,1,,"",30-35000-2
+019121,,Test Student 1,Test,Student,1,Week 21,GradableItem,2016-02-19,Participation and Preparation,10,,,,,,10,1,,"",30-35000-2
+019121,,Test Student 1,Test,Student,1,Week 22,GradableItem,2016-02-26,Participation and Preparation,10,,,,,,20,1,,"",30-35000-2
+019121,,Test Student 1,Test,Student,1,Week 23,GradableItem,2016-03-04,Participation and Preparation,10,,,,,,20,1,,"",30-35000-2
+019121,,Test Student 1,Test,Student,1,Week 24,GradableItem,2016-03-11,Participation and Preparation,10,,,,,,20,1,,"",30-35000-2
+019121,,Test Student 1,Test,Student,1,Week 25,GradableItem,2016-03-18,Participation and Preparation,10,,,,,,20,1,,"",30-35000-2
+019121,,Test Student 1,Test,Student,1,Week 26,GradableItem,2016-03-25,Participation and Preparation,10,,,,,,15,1,,"",30-35000-2
+019121,,Test Student 1,Test,Student,1,Test: Unit 1,Assignment,2015-09-30,Tests and Projects,40,,,,100.0,100.0,100,1,,"",30-35000-2
+019121,,Test Student 1,Test,Student,1,Test: Unit 1 Corrections,Assignment,2015-10-12,Tests and Projects,40,,,,0.0,0.0,1,1,,"",30-35000-2
+019121,,Test Student 1,Test,Student,1,Test: Unit 2 Extra Credit,GradableItem,2015-11-18,Tests and Projects,40,,,,0.0,0.0,1,1,,"",30-35000-2
+019121,,Test Student 1,Test,Student,1,Test: Unit 2,Assignment,2015-11-18,Tests and Projects,40,,,,91.0,91.0,100,1,,"",30-35000-2
+019121,,Test Student 1,Test,Student,1,Test: Unit 2 Corrections,Assignment,2015-12-07,Tests and Projects,40,,,,0.0,0.0,1,1,,"",30-35000-2
+019121,,Test Student 1,Test,Student,1,Test: Unit 3,Assignment,2015-12-14,Tests and Projects,40,,,,80.0,80.0,100,1,,"",30-35000-2
+019121,,Test Student 1,Test,Student,1,Test: Unit 3 Corrections,Assignment,2016-01-11,Tests and Projects,40,,,,0.0,0.0,1,1,,"",30-35000-2
+019121,,Test Student 1,Test,Student,1,Day 61 Spiral Bonus,GradableItem,2016-01-21,Tests and Projects,40,,,,0.0,0.0,1,1,,"",30-35000-2
+019121,,Test Student 1,Test,Student,1,Quest: Unit 4,Assignment,2016-01-29,Tests and Projects,40,,,,63.0,63.0,70,1,,"",30-35000-2
+019121,,Test Student 1,Test,Student,1,Quest: Unit 4 Corrections,Assignment,2016-02-19,Tests and Projects,40,,,,0.0,0.0,1,1,,"",30-35000-2
+019121,,Test Student 1,Test,Student,1,Test: Unit 5,Assignment,2016-03-23,Tests and Projects,40,,,,87.0,87.0,100,"",,"",30-35000-2
+019121,,Test Student 1,Test,Student,1,Midterm Exam,Assignment,2016-02-11,Midterm,10,,,,212.5,212.5,231,1,,"",30-35000-2
+019121,,Test Student 1,Test,Student,1,In-Class Work Day 2 (Programming 0),Assignment,2015-09-02,Programming,10,,,,,,10,1,,"",30-35000-2
+019121,,Test Student 1,Test,Student,1,Homework Day 2 (Programming 0),Assignment,2015-09-03,Programming,10,,,,,,10,1,,"",30-35000-2
+019121,,Test Student 1,Test,Student,1,Pseudocode (Programming Lesson 1),Assignment,2015-10-02,Programming,10,,,,,,10,1,,"",30-35000-2
+019121,,Test Student 1,Test,Student,1,HW 2a (Programming),Assignment,2015-10-07,Programming,10,,,,,,10,1,,"",30-35000-2
+019121,,Test Student 1,Test,Student,1,HW 2b (Programming),Assignment,2015-10-12,Programming,10,,,,,,10,1,,"",30-35000-2
+019121,,Test Student 1,Test,Student,1,HW 3 (Programming),Assignment,2015-10-21,Programming,10,,,,,,10,1,,"",30-35000-2
+019121,,Test Student 1,Test,Student,1,In-Class Programming Day 51,Assignment,2015-12-18,Programming,10,,,,,,10,1,,"",30-35000-2
+019121,,Test Student 1,Test,Student,1,In-Class Programming Day 54,Assignment,2016-01-07,Programming,10,,,,,,10,1,,"",30-35000-2
+019121,,Test Student 1,Test,Student,1,Programming Homework Lesson 4,Assignment,2016-01-08,Programming,10,,,,,,10,1,,"",30-35000-2
+019126,,Test 2,Test,"",2,Quiz 1 Problems Credit,GradableItem,2015-09-16,Quizzes and Practice Problems,20,,,,0.0,0.0,1,1,,"",30-35000-2
+019126,,Test 2,Test,"",2,Quiz 1,Assignment,2015-09-16,Quizzes and Practice Problems,20,,,,10.0,10.0,10,1,,"",30-35000-2
+019126,,Test 2,Test,"",2,Quiz 2 Problems Credit,GradableItem,2015-09-21,Quizzes and Practice Problems,20,,,,0.0,0.0,1,1,,"",30-35000-2
+019126,,Test 2,Test,"",2,Quiz 2,Assignment,2015-09-21,Quizzes and Practice Problems,20,,,,9.0,9.0,10,1,,"",30-35000-2
+019126,,Test 2,Test,"",2,Quiz 3 Problems Credit,GradableItem,2015-09-28,Quizzes and Practice Problems,20,,,,0.0,0.0,1,1,,"",30-35000-2
+019126,,Test 2,Test,"",2,Quiz 3,Assignment,2015-09-28,Quizzes and Practice Problems,20,,,,,,10,1,Was 6,"",30-35000-2
+019126,,Test 2,Test,"",2,Quiz 4 Problems Credit,GradableItem,2015-10-28,Quizzes and Practice Problems,20,,,,0.0,0.0,1,1,,"",30-35000-2
+019126,,Test 2,Test,"",2,Quiz 4,Assignment,2015-10-28,Quizzes and Practice Problems,20,,,,8.0,8.0,10,1,,"",30-35000-2
+019126,,Test 2,Test,"",2,Quiz 5 Problems Credit,GradableItem,2015-11-04,Quizzes and Practice Problems,20,,,,0.0,0.0,1,1,,"",30-35000-2
+019126,,Test 2,Test,"",2,Quiz 5,Assignment,2015-11-04,Quizzes and Practice Problems,20,,,,10.0,10.0,10,1,,"",30-35000-2
+019126,,Test 2,Test,"",2,Quiz 6 Problems Credit,GradableItem,2015-11-11,Quizzes and Practice Problems,20,,,,0.0,0.0,1,1,,"",30-35000-2
+019126,,Test 2,Test,"",2,Quiz 6,Assignment,2015-11-11,Quizzes and Practice Problems,20,,,,10.0,10.0,10,1,,"",30-35000-2
+019126,,Test 2,Test,"",2,Quiz 7 Problems Credit,GradableItem,2015-11-16,Quizzes and Practice Problems,20,,,,0.0,0.0,1,1,,"",30-35000-2
+019126,,Test 2,Test,"",2,Quiz 7,Assignment,2015-11-16,Quizzes and Practice Problems,20,,,,8.0,8.0,10,1,,"",30-35000-2
+019126,,Test 2,Test,"",2,Dictionary Check 1,Assignment,2015-11-20,Quizzes and Practice Problems,20,,,,,,10,1,,"",30-35000-2
+019126,,Test 2,Test,"",2,Quiz 8 Problems Credit,GradableItem,2015-12-07,Quizzes and Practice Problems,20,,,,0.0,0.0,1,1,,"",30-35000-2
+019126,,Test 2,Test,"",2,Quiz 8,Assignment,2015-12-07,Quizzes and Practice Problems,20,,,,6.0,6.0,10,1,,"",30-35000-2
+019126,,Test 2,Test,"",2,Quiz 9 Problems Credit,GradableItem,2015-12-09,Quizzes and Practice Problems,20,,,,0.0,0.0,1,1,,"",30-35000-2
+019126,,Test 2,Test,"",2,Quiz 9,Assignment,2015-12-09,Quizzes and Practice Problems,20,,,,9.0,9.0,10,1,,"",30-35000-2
+019126,,Test 2,Test,"",2,Quiz 10 Problems Credit,GradableItem,2016-01-13,Quizzes and Practice Problems,20,,,,0.0,0.0,1,1,,"",30-35000-2
+019126,,Test 2,Test,"",2,Quiz 10,Assignment,2016-01-13,Quizzes and Practice Problems,20,,,,9.0,9.0,10,1,,"",30-35000-2
+019126,,Test 2,Test,"",2,Quiz 11 Problems Credit,GradableItem,2016-01-20,Quizzes and Practice Problems,20,,,,0.0,0.0,1,1,,"",30-35000-2
+019126,,Test 2,Test,"",2,Quiz 11,Assignment,2016-01-21,Quizzes and Practice Problems,20,,,,,,10,1,,"",30-35000-2
+019126,,Test 2,Test,"",2,Quiz 12 Problems Credit,GradableItem,2016-01-25,Quizzes and Practice Problems,20,,,,0.0,0.0,1,1,,"",30-35000-2
+019126,,Test 2,Test,"",2,Quiz 12,Assignment,2016-01-25,Quizzes and Practice Problems,20,,,,6.0,6.0,10,1,,"",30-35000-2
+019126,,Test 2,Test,"",2,Dictionary Check 2,Assignment,2016-02-04,Quizzes and Practice Problems,20,,,,,,10,1,,"",30-35000-2
+019126,,Test 2,Test,"",2,Quiz 13 Problems Credit,GradableItem,2016-02-24,Quizzes and Practice Problems,20,,,,0.0,0.0,1,1,,"",30-35000-2
+019126,,Test 2,Test,"",2,Quiz 13,Assignment,2016-02-24,Quizzes and Practice Problems,20,,,,3.0,3.0,10,1,,"",30-35000-2
+019126,,Test 2,Test,"",2,Quiz 14 Problems Credit,GradableItem,2016-03-04,Quizzes and Practice Problems,20,,,,0.0,0.0,1,1,,"",30-35000-2
+019126,,Test 2,Test,"",2,Quiz 14,Assignment,2016-03-04,Quizzes and Practice Problems,20,,,,6.0,6.0,10,1,,"",30-35000-2
+019126,,Test 2,Test,"",2,Quiz 15 Problems Credit,GradableItem,2016-03-09,Quizzes and Practice Problems,20,,,,0.0,0.0,1,1,,"",30-35000-2
+019126,,Test 2,Test,"",2,Quiz 15,Assignment,2016-03-09,Quizzes and Practice Problems,20,,,,5.0,5.0,10,1,,"",30-35000-2
+019126,,Test 2,Test,"",2,Quiz 16 Problems Credit,GradableItem,2016-03-16,Quizzes and Practice Problems,20,,,,0.0,0.0,1,1,,"",30-35000-2
+019126,,Test 2,Test,"",2,Quiz 16,Assignment,2016-03-16,Quizzes and Practice Problems,20,,,,5.0,5.0,10,1,,"",30-35000-2
+019126,,Test 2,Test,"",2,Review Questions Day 2,Assignment,2015-09-02,Participation and Preparation,10,,,,,,1,1,,"",30-35000-2
+019126,,Test 2,Test,"",2,Week 1,GradableItem,2015-09-04,Participation and Preparation,10,,,,,,20,1,,"",30-35000-2
+019126,,Test 2,Test,"",2,Week 2,GradableItem,2015-09-11,Participation and Preparation,10,,,,,,5,1,,"",30-35000-2
+019126,,Test 2,Test,"",2,Week 3,GradableItem,2015-09-18,Participation and Preparation,10,,,,,,15,1,,"",30-35000-2
+019126,,Test 2,Test,"",2,Week 4,GradableItem,2015-09-25,Participation and Preparation,10,,,,,,15,1,,"",30-35000-2
+019126,,Test 2,Test,"",2,Week 5,GradableItem,2015-10-02,Participation and Preparation,10,,,,,,20,1,,"",30-35000-2
+019126,,Test 2,Test,"",2,Week 6,GradableItem,2015-10-09,Participation and Preparation,10,,,,,,15,1,,"",30-35000-2
+019126,,Test 2,Test,"",2,Week 7,GradableItem,2015-10-16,Participation and Preparation,10,,,,,,20,1,,"",30-35000-2
+019126,,Test 2,Test,"",2,Week 8,GradableItem,2015-10-23,Participation and Preparation,10,,,,,,15,1,,"",30-35000-2
+019126,,Test 2,Test,"",2,Week 9,GradableItem,2015-10-30,Participation and Preparation,10,,,,,,20,1,,"",30-35000-2
+019126,,Test 2,Test,"",2,Week 10,GradableItem,2015-11-06,Participation and Preparation,10,,,,,,20,1,,"",30-35000-2
+019126,,Test 2,Test,"",2,Week 11,GradableItem,2015-11-11,Participation and Preparation,10,,,,,,15,1,,"",30-35000-2
+019126,,Test 2,Test,"",2,Week 12,GradableItem,2015-11-20,Participation and Preparation,10,,,,,,20,1,,"",30-35000-2
+019126,,Test 2,Test,"",2,Week 13,GradableItem,2015-12-04,Participation and Preparation,10,,,,,,20,1,,"",30-35000-2
+019126,,Test 2,Test,"",2,Week 14,GradableItem,2015-12-11,Participation and Preparation,10,,,,,,20,1,,"",30-35000-2
+019126,,Test 2,Test,"",2,Week 15,GradableItem,2015-12-18,Participation and Preparation,10,,,,,,20,1,,"",30-35000-2
+019126,,Test 2,Test,"",2,Week 16,GradableItem,2016-01-08,Participation and Preparation,10,,,,,,20,1,,"",30-35000-2
+019126,,Test 2,Test,"",2,Week 17,GradableItem,2016-01-15,Participation and Preparation,10,,,,,,20,1,,"",30-35000-2
+019126,,Test 2,Test,"",2,Week 18,GradableItem,2016-01-22,Participation and Preparation,10,,,,,,15,1,,"",30-35000-2
+019126,,Test 2,Test,"",2,Week 19,GradableItem,2016-01-29,Participation and Preparation,10,,,,,,20,1,,"",30-35000-2
+019126,,Test 2,Test,"",2,Week 20,GradableItem,2016-02-05,Participation and Preparation,10,,,,,,15,1,,"",30-35000-2
+019126,,Test 2,Test,"",2,Week 21,GradableItem,2016-02-19,Participation and Preparation,10,,,,,,10,1,,"",30-35000-2
+019126,,Test 2,Test,"",2,Week 22,GradableItem,2016-02-26,Participation and Preparation,10,,,,,,20,1,,"",30-35000-2
+019126,,Test 2,Test,"",2,Week 23,GradableItem,2016-03-04,Participation and Preparation,10,,,,,,20,1,,"",30-35000-2
+019126,,Test 2,Test,"",2,Week 24,GradableItem,2016-03-11,Participation and Preparation,10,,,,,,20,1,,"",30-35000-2
+019126,,Test 2,Test,"",2,Week 25,GradableItem,2016-03-18,Participation and Preparation,10,,,,,,20,1,,"",30-35000-2
+019126,,Test 2,Test,"",2,Week 26,GradableItem,2016-03-25,Participation and Preparation,10,,,,,,15,1,,"",30-35000-2
+019126,,Test 2,Test,"",2,Test: Unit 1,Assignment,2015-09-30,Tests and Projects,40,,,,98.0,98.0,100,1,,"",30-35000-2
+019126,,Test 2,Test,"",2,Test: Unit 1 Corrections,Assignment,2015-10-12,Tests and Projects,40,,,,0.0,0.0,1,1,,"",30-35000-2
+019126,,Test 2,Test,"",2,Test: Unit 2 Extra Credit,GradableItem,2015-11-18,Tests and Projects,40,,,,0.0,0.0,1,1,,"",30-35000-2
+019126,,Test 2,Test,"",2,Test: Unit 2,Assignment,2015-11-18,Tests and Projects,40,,,,89.0,89.0,100,1,,"",30-35000-2
+019126,,Test 2,Test,"",2,Test: Unit 2 Corrections,Assignment,2015-12-07,Tests and Projects,40,,,,0.0,0.0,1,1,,"",30-35000-2
+019126,,Test 2,Test,"",2,Test: Unit 3,Assignment,2015-12-14,Tests and Projects,40,,,,91.0,91.0,100,1,,"",30-35000-2
+019126,,Test 2,Test,"",2,Test: Unit 3 Corrections,Assignment,2016-01-11,Tests and Projects,40,,,,0.0,0.0,1,1,,"",30-35000-2
+019126,,Test 2,Test,"",2,Day 61 Spiral Bonus,GradableItem,2016-01-21,Tests and Projects,40,,,,0.0,0.0,1,1,,"",30-35000-2
+019126,,Test 2,Test,"",2,Quest: Unit 4,Assignment,2016-01-29,Tests and Projects,40,,,,62.0,62.0,70,1,,"",30-35000-2
+019126,,Test 2,Test,"",2,Quest: Unit 4 Corrections,Assignment,2016-02-19,Tests and Projects,40,,,,0.0,0.0,1,1,,"",30-35000-2
+019126,,Test 2,Test,"",2,Test: Unit 5,Assignment,2016-03-23,Tests and Projects,40,,,,86.0,86.0,100,"",,"",30-35000-2
+019126,,Test 2,Test,"",2,Midterm Exam,Assignment,2016-02-11,Midterm,10,,,,223.0,223.0,231,1,,"",30-35000-2
+019126,,Test 2,Test,"",2,In-Class Work Day 2 (Programming 0),Assignment,2015-09-02,Programming,10,,,,,,10,1,,"",30-35000-2
+019126,,Test 2,Test,"",2,Homework Day 2 (Programming 0),Assignment,2015-09-03,Programming,10,,,,,,10,1,,"",30-35000-2
+019126,,Test 2,Test,"",2,Pseudocode (Programming Lesson 1),Assignment,2015-10-02,Programming,10,,,,0.0,0.0,10,1,,"",30-35000-2
+019126,,Test 2,Test,"",2,HW 2a (Programming),Assignment,2015-10-07,Programming,10,,,,,,10,1,,"",30-35000-2
+019126,,Test 2,Test,"",2,HW 2b (Programming),Assignment,2015-10-12,Programming,10,,,,,,10,1,,"",30-35000-2
+019126,,Test 2,Test,"",2,HW 3 (Programming),Assignment,2015-10-21,Programming,10,,,,,,10,1,,"",30-35000-2
+019126,,Test 2,Test,"",2,In-Class Programming Day 51,Assignment,2015-12-18,Programming,10,,,,,,10,1,,"",30-35000-2
+019126,,Test 2,Test,"",2,In-Class Programming Day 54,Assignment,2016-01-07,Programming,10,,,,,,10,1,,"",30-35000-2
+019126,,Test 2,Test,"",2,Programming Homework Lesson 4,Assignment,2016-01-08,Programming,10,,,,,,10,1,,"",30-35000-2
+019131,,Test Student 3,Test,Student,3,Quiz 1 Problems Credit,GradableItem,2015-09-16,Quizzes and Practice Problems,20,,,,0.0,0.0,1,1,,"",30-35000-3
+019131,,Test Student 3,Test,Student,3,Quiz 1,Assignment,2015-09-16,Quizzes and Practice Problems,20,,,,10.0,10.0,10,1,,"",30-35000-3
+019131,,Test Student 3,Test,Student,3,Quiz 2 Problems Credit,GradableItem,2015-09-21,Quizzes and Practice Problems,20,,,,0.0,0.0,1,1,,"",30-35000-3
+019131,,Test Student 3,Test,Student,3,Quiz 2,Assignment,2015-09-21,Quizzes and Practice Problems,20,,,,10.0,10.0,10,1,,"",30-35000-3
+019131,,Test Student 3,Test,Student,3,Quiz 3 Problems Credit,GradableItem,2015-09-28,Quizzes and Practice Problems,20,,,,0.0,0.0,1,1,,"",30-35000-3
+019131,,Test Student 3,Test,Student,3,Quiz 3,Assignment,2015-09-28,Quizzes and Practice Problems,20,,,,10.0,10.0,10,1,,"",30-35000-3
+019131,,Test Student 3,Test,Student,3,Quiz 4 Problems Credit,GradableItem,2015-10-28,Quizzes and Practice Problems,20,,,,0.0,0.0,1,1,,"",30-35000-3
+019131,,Test Student 3,Test,Student,3,Quiz 4,Assignment,2015-10-28,Quizzes and Practice Problems,20,,,,10.0,10.0,10,1,,"",30-35000-3
+019131,,Test Student 3,Test,Student,3,Quiz 5 Problems Credit,GradableItem,2015-11-04,Quizzes and Practice Problems,20,,,,,,1,1,,"",30-35000-3
+019131,,Test Student 3,Test,Student,3,Quiz 5,Assignment,2015-11-04,Quizzes and Practice Problems,20,,,,,,10,1,Was 8.5,"",30-35000-3
+019131,,Test Student 3,Test,Student,3,Quiz 6 Problems Credit,GradableItem,2015-11-11,Quizzes and Practice Problems,20,,,,,,1,1,,"",30-35000-3
+019131,,Test Student 3,Test,Student,3,Quiz 6,Assignment,2015-11-11,Quizzes and Practice Problems,20,,,,,,10,1,,"",30-35000-3
+019131,,Test Student 3,Test,Student,3,Quiz 7 Problems Credit,GradableItem,2015-11-16,Quizzes and Practice Problems,20,,,,0.0,0.0,1,1,,"",30-35000-3
+019131,,Test Student 3,Test,Student,3,Quiz 7,Assignment,2015-11-16,Quizzes and Practice Problems,20,,,,9.0,9.0,10,1,,"",30-35000-3
+019131,,Test Student 3,Test,Student,3,Dictionary Check 1,Assignment,2015-11-20,Quizzes and Practice Problems,20,,,,,,10,1,,"",30-35000-3
+019131,,Test Student 3,Test,Student,3,Quiz 8 Problems Credit,GradableItem,2015-12-07,Quizzes and Practice Problems,20,,,,0.0,0.0,1,1,,"",30-35000-3
+019131,,Test Student 3,Test,Student,3,Quiz 8,Assignment,2015-12-07,Quizzes and Practice Problems,20,,,,4.0,4.0,10,1,,"",30-35000-3
+019131,,Test Student 3,Test,Student,3,Quiz 9 Problems Credit,GradableItem,2015-12-09,Quizzes and Practice Problems,20,,,,0.0,0.0,1,1,,"",30-35000-3
+019131,,Test Student 3,Test,Student,3,Quiz 9,Assignment,2015-12-09,Quizzes and Practice Problems,20,,,,7.0,7.0,10,1,,"",30-35000-3
+019131,,Test Student 3,Test,Student,3,Quiz 10 Problems Credit,GradableItem,2016-01-13,Quizzes and Practice Problems,20,,,,0.0,0.0,1,1,,"",30-35000-3
+019131,,Test Student 3,Test,Student,3,Quiz 10,Assignment,2016-01-13,Quizzes and Practice Problems,20,,,,8.0,8.0,10,1,,"",30-35000-3
+019131,,Test Student 3,Test,Student,3,Quiz 11 Problems Credit,GradableItem,2016-01-20,Quizzes and Practice Problems,20,,,,4.0,4.0,1,1,,"",30-35000-3
+019131,,Test Student 3,Test,Student,3,Quiz 11,Assignment,2016-01-21,Quizzes and Practice Problems,20,,,,6.0,6.0,10,1,,"",30-35000-3
+019131,,Test Student 3,Test,Student,3,Quiz 12 Problems Credit,GradableItem,2016-01-25,Quizzes and Practice Problems,20,,,,0.0,0.0,1,1,,"",30-35000-3
+019131,,Test Student 3,Test,Student,3,Quiz 12,Assignment,2016-01-25,Quizzes and Practice Problems,20,,,,6.0,6.0,10,1,,"",30-35000-3
+019131,,Test Student 3,Test,Student,3,Dictionary Check 2,Assignment,2016-02-04,Quizzes and Practice Problems,20,,,,,,10,1,,"",30-35000-3
+019131,,Test Student 3,Test,Student,3,Quiz 13,Assignment,2016-02-24,Quizzes and Practice Problems,20,,,,5.5,5.5,10,1,,"",30-35000-3
+019131,,Test Student 3,Test,Student,3,Quiz 14,Assignment,2016-03-04,Quizzes and Practice Problems,20,,,,5.0,5.0,10,1,,"",30-35000-3
+019131,,Test Student 3,Test,Student,3,Quiz 15 Problems Credit,GradableItem,2016-03-09,Quizzes and Practice Problems,20,,,,"",,1,1,,"",30-35000-3
+019131,,Test Student 3,Test,Student,3,Quiz 15,Assignment,2016-03-09,Quizzes and Practice Problems,20,,,,3.0,3.0,10,1,,"",30-35000-3
+019131,,Test Student 3,Test,Student,3,Quiz 16 Problems Credit,GradableItem,2016-03-16,Quizzes and Practice Problems,20,,,,"",,1,1,,"",30-35000-3
+019131,,Test Student 3,Test,Student,3,Quiz 16,Assignment,2016-03-16,Quizzes and Practice Problems,20,,,,7.0,7.0,10,1,,"",30-35000-3
+019131,,Test Student 3,Test,Student,3,Review Questions Day 2,Assignment,2015-09-02,Participation and Preparation,10,,,,,,1,1,,"",30-35000-3
+019131,,Test Student 3,Test,Student,3,Week 1,GradableItem,2015-09-04,Participation and Preparation,10,,,,,,20,1,,"",30-35000-3
+019131,,Test Student 3,Test,Student,3,Week 2,GradableItem,2015-09-11,Participation and Preparation,10,,,,,,5,1,,"",30-35000-3
+019131,,Test Student 3,Test,Student,3,Week 3,GradableItem,2015-09-18,Participation and Preparation,10,,,,,,15,1,,"",30-35000-3
+019131,,Test Student 3,Test,Student,3,Week 4,GradableItem,2015-09-25,Participation and Preparation,10,,,,,,15,1,,"",30-35000-3
+019131,,Test Student 3,Test,Student,3,Week 5,GradableItem,2015-10-02,Participation and Preparation,10,,,,,,20,1,,"",30-35000-3
+019131,,Test Student 3,Test,Student,3,Week 6,GradableItem,2015-10-09,Participation and Preparation,10,,,,,,15,1,,"",30-35000-3
+019131,,Test Student 3,Test,Student,3,Week 7,GradableItem,2015-10-16,Participation and Preparation,10,,,,,,20,1,,"",30-35000-3
+019131,,Test Student 3,Test,Student,3,Week 8,GradableItem,2015-10-23,Participation and Preparation,10,,,,,,15,1,,"",30-35000-3
+019131,,Test Student 3,Test,Student,3,Week 9,GradableItem,2015-10-30,Participation and Preparation,10,,,,,,20,1,,"",30-35000-3
+019131,,Test Student 3,Test,Student,3,Week 10,GradableItem,2015-11-06,Participation and Preparation,10,,,,,,20,1,,"",30-35000-3
+019131,,Test Student 3,Test,Student,3,Week 11,GradableItem,2015-11-11,Participation and Preparation,10,,,,,,15,1,,"",30-35000-3
+019131,,Test Student 3,Test,Student,3,Week 12,GradableItem,2015-11-20,Participation and Preparation,10,,,,,,20,1,,"",30-35000-3
+019131,,Test Student 3,Test,Student,3,Week 13,GradableItem,2015-12-04,Participation and Preparation,10,,,,,,20,1,,"",30-35000-3
+019131,,Test Student 3,Test,Student,3,Week 14,GradableItem,2015-12-11,Participation and Preparation,10,,,,,,20,1,,"",30-35000-3
+019131,,Test Student 3,Test,Student,3,Week 15,GradableItem,2015-12-18,Participation and Preparation,10,,,,,,20,1,,"",30-35000-3
+019131,,Test Student 3,Test,Student,3,Week 16,GradableItem,2016-01-08,Participation and Preparation,10,,,,,,20,1,,"",30-35000-3
+019131,,Test Student 3,Test,Student,3,Week 17,GradableItem,2016-01-15,Participation and Preparation,10,,,,,,20,1,,"",30-35000-3
+019131,,Test Student 3,Test,Student,3,Week 18,GradableItem,2016-01-22,Participation and Preparation,10,,,,,,15,1,,"",30-35000-3
+019131,,Test Student 3,Test,Student,3,Week 19,GradableItem,2016-01-29,Participation and Preparation,10,,,,,,20,1,,"",30-35000-3
+019131,,Test Student 3,Test,Student,3,Week 20,GradableItem,2016-02-05,Participation and Preparation,10,,,,,,15,1,,"",30-35000-3
+019131,,Test Student 3,Test,Student,3,Week 21,GradableItem,2016-02-19,Participation and Preparation,10,,,,,,10,1,,"",30-35000-3
+019131,,Test Student 3,Test,Student,3,Week 22,GradableItem,2016-02-26,Participation and Preparation,10,,,,,,20,1,,"",30-35000-3
+019131,,Test Student 3,Test,Student,3,Week 23,GradableItem,2016-03-04,Participation and Preparation,10,,,,,,20,1,,"",30-35000-3
+019131,,Test Student 3,Test,Student,3,Week 24,GradableItem,2016-03-11,Participation and Preparation,10,,,,,,20,1,,"",30-35000-3
+019131,,Test Student 3,Test,Student,3,Week 25,GradableItem,2016-03-18,Participation and Preparation,10,,,,,,20,1,,"",30-35000-3
+019131,,Test Student 3,Test,Student,3,Week 26,GradableItem,2016-03-25,Participation and Preparation,10,,,,,,15,1,,"",30-35000-3
+019131,,Test Student 3,Test,Student,3,Test: Unit 1,Assignment,2015-09-30,Tests and Projects,40,,,,97.0,97.0,100,1,,"",30-35000-3
+019131,,Test Student 3,Test,Student,3,Test: Unit 1 Corrections,Assignment,2015-10-12,Tests and Projects,40,,,,0.0,0.0,1,1,,"",30-35000-3
+019131,,Test Student 3,Test,Student,3,Test: Unit 2 Extra Credit,GradableItem,2015-11-18,Tests and Projects,40,,,,0.0,0.0,1,1,,"",30-35000-3
+019131,,Test Student 3,Test,Student,3,Test: Unit 2 MIU Extra Credit,GradableItem,2015-11-18,Tests and Projects,40,,,,0.0,0.0,2,1,,"",30-35000-3
+019131,,Test Student 3,Test,Student,3,Test: Unit 2,Assignment,2015-11-18,Tests and Projects,40,,,,86.0,86.0,100,1,,"",30-35000-3
+019131,,Test Student 3,Test,Student,3,Test: Unit 2 Corrections,Assignment,2015-12-07,Tests and Projects,40,,,,4.0,4.0,1,1,,"",30-35000-3
+019131,,Test Student 3,Test,Student,3,Test: Unit 3,Assignment,2015-12-14,Tests and Projects,40,,,,86.0,86.0,100,1,,"",30-35000-3
+019131,,Test Student 3,Test,Student,3,Test: Unit 3 Corrections,Assignment,2016-01-11,Tests and Projects,40,,,,0.0,0.0,1,1,,"",30-35000-3
+019131,,Test Student 3,Test,Student,3,Day 61 Spiral Bonus,GradableItem,2016-01-21,Tests and Projects,40,,,,0.0,0.0,1,1,,"",30-35000-3
+019131,,Test Student 3,Test,Student,3,Quest: Unit 4,Assignment,2016-01-29,Tests and Projects,40,,,,59.0,59.0,70,1,,"",30-35000-3
+019131,,Test Student 3,Test,Student,3,Quest: Unit 4 Corrections,Assignment,2016-02-19,Tests and Projects,40,,,,0.0,0.0,1,1,,"",30-35000-3
+019131,,Test Student 3,Test,Student,3,Midterm Exam,Assignment,2016-02-11,Midterm,10,,,,201.0,201.0,231,1,,"",30-35000-3
+019131,,Test Student 3,Test,Student,3,In-Class Work Day 2 (Programming 0),Assignment,2015-09-02,Programming,10,,,,,,10,1,,"",30-35000-3
+019131,,Test Student 3,Test,Student,3,Homework Day 2 (Programming 0),Assignment,2015-09-03,Programming,10,,,,,,10,1,,"",30-35000-3
+019131,,Test Student 3,Test,Student,3,Pseudocode (Programming Lesson 1),Assignment,2015-10-02,Programming,10,,,,,,10,1,,"",30-35000-3
+019131,,Test Student 3,Test,Student,3,HW 2a (Programming),Assignment,2015-10-07,Programming,10,,,,,,10,1,,"",30-35000-3
+019131,,Test Student 3,Test,Student,3,HW 2b (Programming),Assignment,2015-10-12,Programming,10,,,,,,10,1,,"",30-35000-3
+019131,,Test Student 3,Test,Student,3,HW 3 (Programming),Assignment,2015-10-21,Programming,10,,,,,,10,1,,"",30-35000-3
+019131,,Test Student 3,Test,Student,3,In-Class Programming Day 51,Assignment,2015-12-18,Programming,10,,,,,,10,1,,"",30-35000-3
+019131,,Test Student 3,Test,Student,3,In-Class Programming Day 54,Assignment,2016-01-07,Programming,10,,,,,,10,1,,"",30-35000-3
+019131,,Test Student 3,Test,Student,3,Programming Homework Lesson 4,Assignment,2016-01-08,Programming,10,,,,,,10,1,,"",30-35000-3

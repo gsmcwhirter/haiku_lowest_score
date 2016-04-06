@@ -60,6 +60,17 @@ sub name {
   return($self->{name});
 }
 
+=head2 assignments
+
+Returns an array of the student's assignments
+
+=cut
+
+sub assignments {
+  my $self = shift;
+  return(@{$self->{assignments}});
+}
+
 =head2 lowest_assignment
 
 Calculates the student's lowest assignment in the given category by percentage
